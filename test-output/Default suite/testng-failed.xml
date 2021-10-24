@@ -5,6 +5,7 @@
     <classes>
       <class name="seleniumproject.Seleniumclass">
         <methods>
+          <include name="launchApplication"/>
           <include name="loginPageTest"/>
         </methods>
       </class> <!-- seleniumproject.Seleniumclass -->
